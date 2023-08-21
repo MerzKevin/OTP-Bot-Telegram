@@ -1,0 +1,19 @@
+🧠 SimSwapOTP | Features 🧠
+
+📃 Below is of some of our features as well as definitions to help understand the meaning of each one. We are constantly providing updates and adding new features so make sure to check back here often!
+
+ ⚙️ MODES: Banks, Payment Services, Mobile Authenticators, Emails, Crypto Exchanges, Social Medias, Shopping and  many more!
+
+📞 Custom Spoof - This allows users to set the callerid as ANY number they would like, this is great for bypassing 2FA as it makes it look like the call is coming from a trusted source.
+
+🗣 Custom Voices - Ability to set the voice for your calls with over 450+ options.
+
+🌍 Custom Languages - Ability to set the language for your calls with over 450+ options.
+
+🚫 Invalid Code Prevention - Prevents victims from inputting obvious invalid codes (2 Digits) automatically prompting them to re-enter the correct code.
+
+✅ Accept / Deny - Allows users to interact with the target and decide whether the code provided is valid as well as obtain multiple codes per call.
+
+🔔 Notify Target (Beta) - This a 1 of a kind feature never seen before, this allows users to send a spoofed SMS to the targets devices letting them know they missed your call increasing hit rates tremendously!
+
+📜 Custom Scripts - Ability to create custom scripts with up to 3 interaction prompts allowing users to capture up to 3 OTP in one call while making the bot say exactly what you want.
